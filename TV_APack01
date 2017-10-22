@@ -1,0 +1,23 @@
+Titre : AchatPackSuccess
+
+ID/Version : TV_APack01 V1 18/10/2017
+
+Auteur : Justin Rudat
+
+Contexte : l'utilisateur "u001" est connecté et ces coordonnées bancaires sont définies.
+
+Entrée : idUser = "u001"
+
+Scénario :  1) l'utilisateur "u001" clique sur le bouton "Acheter un pack"
+
+			2) vérrification des coordonnées bancaires et demande de validation de l'achat
+
+			3) l'utilisateur confirme la demande d'achat
+
+			4) ajout d'un nouveau pack au compte de l'utilisateur
+
+			5) affichage d'une boite de dialogue pour informer que l'achat est effectué
+
+Résultat attendu : un nouveau pack est associé au compte utilisateur.
+
+Moyen de Vérrification : l'affichage du nombre de pack ouvrable est incrémenté de 1 
