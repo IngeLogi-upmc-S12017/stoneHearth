@@ -1,0 +1,106 @@
+Auteur: JEUDY Jordan
+
+
+
+Titre: Créer deck nominal 
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté
+
+
+
+
+
+Entrée: Le fichier "SampleCreateDeck.txt" qui contient 30 nom de carte basique
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur "créer un deck"
+2.L'utilisateur selectionne les cartes présentes dans le fichier "SampleCreateDeck.txt"
+3.L'utilisateur valide son deck
+
+
+Résultat attendu: 
+Le système affiche "Deck crée avec succès", le deck a été créer avec les 30 cartes selectionner par l'utilisateur.
+L'utilisateur dispose d'un emplacement de deck libre en moins
+
+Moyens verification:
+
+Dans gérer deck on peut modifier le deck qu'on vient de créer 
+
+
+================================================
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Créer deck E1 Annulation
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté
+
+
+
+
+
+Entrée: Le fichier "SampleCreateDeck.txt" qui contient 30 nom de carte basique
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur "créer un deck"
+2.L'utilisateur selectionne les cartes présentes dans le fichier "SampleCreateDeck.txt"
+3.L'utilisateur annule son deck
+
+
+Résultat attendu: 
+Le système affiche "Annulation création de deck..." 
+Le deck n'est pas crée.
+L'utilisateur dispose du même nombre d'emplacement de deck libre
+
+Moyens verification:
+
+Visuel, dans gérer deck le deck n'apparait pas dans la selection de deck.
+
+
+================================================
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Créer deck E2  Emplacement de deck indisponible
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté
+
+
+
+
+
+Entrée: Le fichier "SampleCreateDeck.txt" qui contient 30 nom de carte basique
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur "créer un deck"
+
+
+
+Résultat attendu: 
+Le système affiche "Erreur plus d'emplacement de deck disponible" 
+Le deck n'est pas crée.
+L'utilisateur dispose du même nombre d'emplacement de deck libre
+
+Moyens verification:
+
+Visuel, dans gérer deck le deck n'apparait pas dans la selection de deck.
+
+
+================================================
+

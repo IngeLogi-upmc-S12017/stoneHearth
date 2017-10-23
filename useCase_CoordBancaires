@@ -1,0 +1,33 @@
+nom : indiquer les coordonnées bancaires
+auteur: Ibrahima Camara
+description: l''utilisateur veut communiquer ses coordonnées bancaires afin de pouvoir acheter des cartes, packs, decks
+date: 11-10-2017
+acteurs: utilisateur
+
+préconditions:1- avoir un compte utilisateur
+	      2- etre connecté à son compte
+
+scénario nominal: 
+                SN1- l'utilisateur choisit de renseigner ses coordonnées bancaires
+                SN2- le système presente un formulaire pour saisir les informations bancaires
+                SN3- l'utilisateur saisi les coordonnées bancaires
+                SN4- l'utilisateur valide
+                SN5- le système verifie les informations
+                SN6- le système enregistre les coordonnées bancaires
+             
+
+post-conditions: 
+				1- l'utilisateur peut acheter des cartes 
+                2- l'utilisateur peut acheter des packs
+                3- l'utilisateur peut debloquer des emplacements de decks
+Exceptions: 
+			E1: l'utilisateur annule 
+                E1-1- en SN4, l'utilisateur choisit d'annuler les renseignement de ses coordonnées bancaires
+                E1-2- le système affiche "renseignement des coordonnées bancaires annuléé"
+
+            E2: informations bancaires erronées
+                E2-1: en SN5, le système découvre que les informations bancaires contiennent des erreures
+                E2-2: le système affiche "informations bancaires erronées" 
+            
+
+
