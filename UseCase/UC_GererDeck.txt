@@ -1,0 +1,107 @@
+﻿Nom: Gérer deck 
+Date: 20/10/2017 
+Auteur: Jeudy Jordan 
+  
+Description:  Gestion d'un deck par un utilisateur 
+ 
+Acteur: Utilisateur 
+  
+Précondition: L'utilisateur est connecté 
+  
+Scénario Nominal: 
+1.L'utilisateur choisit de gérer ses decks  
+2.Le système affiche "Sélectionner une action... Créer un deck | Modifier un deck"  
+3.Le système demande à l'utilisateur de faire un choix 
+4.L'utilisateur choisit une action 
+
+Post-condition: 
+  
+Alternatives: 
+ A1 Création d'un deck 
+   1 En SN4 si l'utilisateur choisit l'action "Créer un deck", exécuter le UseCase Créer deck 
+ A2 Modification d'un deck 
+   1 En SN4 si l'utilisateur choisit l'action "Modifier un deck", exécuter le UseCase Modifier deck 
+ 
+Exception: 
+
+
+============================
+
+
+Nom: Créer deck 
+Date: 20/10/2017 
+Auteur: Jeudy Jordan 
+  
+Description:  Création d'un deck par un utilisateur 
+ 
+Acteur: Utilisateur 
+  
+Précondition: L'utilisateur est connecté 
+  
+Scénario Nominal: 
+1.L'utilisateur choisit de créer un deck  
+2.Le système vérifie que l'utilisateur dispose d'un emplacement de deck vide  
+3.Le système affiche la collection de carte de l'utilisateur sans les doublons 
+4.Le système demande à l'utilisateur de sélectionner 30 cartes 
+5.L'utilisateur sélectionne les 30 cartes une à une 
+6.Le système affiche "Valider ?"  
+7.L'utilisateur valide 
+8.Le système affiche "Deck crée avec succès" 
+Post-condition: 
+ Création d'un deck avec les 30 cartes sans doublon sélectionner par l'utilisateur. 
+Ce deck est ajouté aux decks de l'utilisateur et il dispose d'un emplacement de deck en moins. 
+ 
+Alternatives: 
+  
+Exception: 
+E1 Annulation 
+  1 En SN7 l'utilisateur annule la création du deck 
+  2 Le système affiche "Annulation création de deck..." 
+E2  Emplacement de deck indisponible
+  1 En SN2 l'utilisateur n'a plus d'emplacement de deck de disponible 
+  2 Le système affiche "Erreur plus d'emplacement de deck disponible" 
+ 
+*Notes* un utilisateur a accès à toutes les cartes "basique" ce qui lui permet de composer un deck. 
+Donc quand il crée un deck il a toujours la possibilité de selectionner 30 cartes (basique) 
+
+
+==================================
+
+
+Nom: Modifier deck 
+Date: 20/10/2017 
+Auteur: Jeudy Jordan 
+  
+Description:  Modification des cartes d'un deck par un utilisateur 
+ 
+Acteur: Utilisateur 
+  
+Précondition: L'utilisateur est connecté 
+  
+Scénario Nominal: 
+1.L'utilisateur choisit de modifier un deck 
+2.Le système vérifie que l'utilisateur dispose d'un deck 
+3.Le système affiche les decks de l'utilisateur
+4.Le système demande à l'utilisateur de sélectionner un deck 
+5.L'utilisateur sélectionne un deck 
+6.Le système affiche le deck 
+7.Le système demande à l'utilisateur de sélectionner une carte à retirer 
+8.L'utilisateur sélectionne une carte A à retirer de son deck 
+9.Le système affiche la collection de l'utilisateur 
+10.Le système demande à l'utilisateur de sélectionner une carte   
+11.L'utilisateur sélectionne une carte B qui va remplacer la carte A 
+12.Le système affiche "Continuer à modifier le deck ?" 
+13.Le système demande une réponse à l'utilisateur 
+14.L'utilisateur refuse  
+15. Le système affiche "Deck modifié" 
+ 
+Post-condition: 
+La carte A ne fais plus partie du deck, la carte B a été rajouter au deck. 
+Alternatives: 
+A1 Boucle 
+  1 En SN14 l'utilisateur accepte  
+  2 Retour en SN56  
+Exception: 
+E1 Pas de deck disponible 
+  1 En SN2 l'utilisateur n'a pas de deck à modifié 
+  2 Le système affiche "Erreur pas de deck disponible" 

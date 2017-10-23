@@ -1,0 +1,20 @@
+Titre : AchatPackNoBank
+
+ID/Version : TV_AP02 V1 18/10/2017
+
+Auteur : Justin Rudat
+
+Contexte : l'utilisateur "u002" est connecté et ces coordonnées bancaires ne sont pas définies.
+
+Entrée : idUser = "u002"
+
+Scénario :  1) l'utilisateur "u002" clique sur le bouton "Acheter un pack"
+
+			2) vérrification des coordonnées bancaires 
+
+			3) affiche d'une boite de dialogue "Vos coordonnées bancaires doivent être définies 
+			dans votre compte avant de pouvoir passer à l'achat."
+
+Résultat attendu : Rien ne change
+
+Moyen de Vérrification : /
