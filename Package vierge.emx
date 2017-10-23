@@ -1107,11 +1107,15 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ey5rQrP4EeemToi0SOttnw" type="Stereotype"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ey6SULP4EeemToi0SOttnw" type="Name"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_Ey6SUbP4EeemToi0SOttnw" type="Parent"/>
-          <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ey6SUrP4EeemToi0SOttnw" type="AttributeCompartment"/>
-          <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ey65YLP4EeemToi0SOttnw" type="OperationCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ey6SUrP4EeemToi0SOttnw" type="AttributeCompartment">
+            <layoutConstraint xmi:type="notation:Ratio" xmi:id="_usAkILf-EeeFGrRlCF2_1w" value="0.05859631821170283"/>
+          </children>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ey65YLP4EeemToi0SOttnw" type="OperationCompartment">
+            <layoutConstraint xmi:type="notation:Ratio" xmi:id="_usBLMLf-EeeFGrRlCF2_1w" value="0.9414036817882971"/>
+          </children>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ey65YbP4EeemToi0SOttnw" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Ey7gcLP4EeemToi0SOttnw" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ey5EMbP4EeemToi0SOttnw" x="6468" y="3036" width="14072" height="9308"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ey5EMbP4EeemToi0SOttnw" x="4356" y="1716" width="18833" height="12905"/>
         </children>
         <element xsi:nil="true"/>
       </contents>
@@ -1910,6 +1914,125 @@
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
         <ownedParameter xmi:id="_vhN0ULZ-Eee_s9tk8qzc_Q" name="nomCarte">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_U8zJELgAEeeFGrRlCF2_1w" name="creerCompte">
+        <ownedParameter xmi:id="_PhxOULgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_0vlv0LgBEeeFGrRlCF2_1w" name="Parameter2"/>
+        <ownedParameter xmi:id="_1Hc2MLgBEeeFGrRlCF2_1w" name="Parameter3"/>
+        <ownedParameter xmi:id="_1KRgsLgBEeeFGrRlCF2_1w" name="Parameter4"/>
+      </ownedOperation>
+      <ownedOperation xmi:id="_XAmz4LgAEeeFGrRlCF2_1w" name="verifierLoginDispo" visibility="private">
+        <ownedParameter xmi:id="_SsRbcLgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_2xO3cLgBEeeFGrRlCF2_1w" name="login">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_Y3jucLgAEeeFGrRlCF2_1w" name="verifierPasswordValide" visibility="private">
+        <ownedParameter xmi:id="_Ts-DcLgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_3LACULgBEeeFGrRlCF2_1w" name="password">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_aTL-8LgAEeeFGrRlCF2_1w" name="verifierEmailValide" visibility="private">
+        <ownedParameter xmi:id="_j56MILgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_3jWQ4LgBEeeFGrRlCF2_1w" name="email">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_cBIHcLgAEeeFGrRlCF2_1w" name="seConnecter">
+        <ownedParameter xmi:id="_lFeAULgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_39t4sLgBEeeFGrRlCF2_1w" name="login">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_4DvoMLgBEeeFGrRlCF2_1w" name="password">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_e14HALgAEeeFGrRlCF2_1w" name="verifierLoginReconnu" visibility="private">
+        <ownedParameter xmi:id="_mDZBILgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_8WaXQLgBEeeFGrRlCF2_1w" name="login">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_jzBWcLgAEeeFGrRlCF2_1w" name="verifiePasswordCorrect" visibility="private">
+        <ownedParameter xmi:id="_nNKsoLgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_83N-QLgBEeeFGrRlCF2_1w" name="password">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_pF6zcLgAEeeFGrRlCF2_1w" name="setCoordBancaires">
+        <ownedParameter xmi:id="_oT0ysLgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_Os8NMLgDEeeFGrRlCF2_1w" name="login">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_-TJwwLgBEeeFGrRlCF2_1w" name="codeBanque">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_-aKXsLgBEeeFGrRlCF2_1w" name="codeGuichet">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_-gzLMLgBEeeFGrRlCF2_1w" name="numCompte">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_-oRsMLgBEeeFGrRlCF2_1w" name="cle">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_wm4qgLgAEeeFGrRlCF2_1w" name="verifieCoordBancaires" visibility="private">
+        <ownedParameter xmi:id="_sIKnALgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_Pz3ZALgDEeeFGrRlCF2_1w" name="login">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_LeDr0LgCEeeFGrRlCF2_1w" name="codeBanque">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_Li7kwLgCEeeFGrRlCF2_1w" name="codeGuichet">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_Lt_lQLgCEeeFGrRlCF2_1w" name="numCompte">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_Lw5IQLgCEeeFGrRlCF2_1w" name="cle">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_IzbuELgBEeeFGrRlCF2_1w" name="enregistreCoordBancaires" visibility="private">
+        <ownedParameter xmi:id="_tOANsLgBEeeFGrRlCF2_1w" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_R89zgLgDEeeFGrRlCF2_1w" name="login">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_MNu1QLgCEeeFGrRlCF2_1w" name="codeBanque">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_MUSwQLgCEeeFGrRlCF2_1w" name="codeGuichet">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_MXMTQLgCEeeFGrRlCF2_1w" name="numCompte">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_Me5dwLgCEeeFGrRlCF2_1w" name="cle">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
       </ownedOperation>
