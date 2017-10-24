@@ -37,7 +37,7 @@ Auteur: JEUDY Jordan
 
 
 
-Titre: Détruire une carte rare nominal 
+Titre: Détruire une carte commune nominal 
 
 
 Contexte: L'utilisateur de login "BobDu77" est connecté
