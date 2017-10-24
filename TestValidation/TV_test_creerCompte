@@ -1,3 +1,4 @@
+Auteur: Ibrahima CAMARA 
 titre: creation d'un compte
 
 context: l'acteur est un invité, il choisit de créer un compte pour devenir utilisateur
@@ -5,7 +6,7 @@ context: l'acteur est un invité, il choisit de créer un compte pour devenir ut
 entrée: login: "djina", password: "game", email: "stone@mail.com"
 
 scenario : 
-          1- l'invité ouvre le formaulaire de creation de compte
+          1- l'invité ouvre le formulaire de creation de compte
           2- l'invité saisit les données login: "djina"et password: "game"
           3- l'invité valide les données saisies
 
