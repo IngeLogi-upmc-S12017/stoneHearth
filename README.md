@@ -13,12 +13,12 @@ git clone https://github.com/IngeLogi-upmc-S12017/stoneHearth.git
 Ensuite pour modifier/ajouter un fichier/dossier sur le git.
 4 étapes sont nécessaire:
 
-<b>1) Recuperer la version la plus a jour (eviter les conflits)</b>
+<b>1) Recuperer la version la plus a jour (eviter les conflits)</b> <br>
 
 git pull origin master
 
 <br>
-<b>2)Ajouter tout les fichiers qu'on a modifié</b>
+<b>2)Ajouter tout les fichiers qu'on a modifié</b><br>
 git add *
 
 ou pour être plus précis: git add nomDossier OU git add nomFichier
@@ -33,5 +33,5 @@ git commit -m "Ce que vous voulez"
 (Par ex je modifie le UC_X je fais git commit -m "UC_X" ) </i>
 <br>
 
-<b>4)Envoyé sur le serveur</b> 
+<b>4)Envoyé sur le serveur</b> <br>
 git push origin master
