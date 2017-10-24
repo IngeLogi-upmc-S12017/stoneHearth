@@ -2036,6 +2036,79 @@
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
       </ownedOperation>
+      <ownedOperation xmi:id="_ITuugLiqEee-QbCuXr1o5Q" name="verrifBankCoord">
+        <ownedParameter xmi:id="_YTUXsLiqEee-QbCuXr1o5Q" name="user_id">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_ZGdr4LiqEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_cDD_4LiqEee-QbCuXr1o5Q" name="validAchat">
+        <ownedParameter xmi:id="_f8UwcLiqEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_hcEr8LiqEee-QbCuXr1o5Q" name="ajoutDeck">
+        <ownedParameter xmi:id="_qJE4ULiqEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_uOWEkLiqEee-QbCuXr1o5Q" name="ajoutPack">
+        <ownedParameter xmi:id="_xyNz8LiqEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_yMriYLiqEee-QbCuXr1o5Q" name="ajoutCarte">
+        <ownedParameter xmi:id="_0AVRULiqEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_0fi84LiqEee-QbCuXr1o5Q" name="achatDeck">
+        <ownedParameter xmi:id="_4HbCgLiqEee-QbCuXr1o5Q" name="user_id">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_4HbCgbiqEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_4qDOcLiqEee-QbCuXr1o5Q" name="achatPack">
+        <ownedParameter xmi:id="_7NwhULiqEee-QbCuXr1o5Q" name="user_id">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_7NxvcLiqEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_7vqUgLiqEee-QbCuXr1o5Q" name="achatCarte">
+        <ownedParameter xmi:id="_AQKrQLirEee-QbCuXr1o5Q" name="user_id">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_AQL5YLirEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_Am2s8LirEee-QbCuXr1o5Q" name="verrifJoyaux">
+        <ownedParameter xmi:id="_GJ_lYLirEee-QbCuXr1o5Q" name="user_id">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_GKAMcLirEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_Jv58ILirEee-QbCuXr1o5Q" name="afficheCarteDispo">
+        <ownedParameter xmi:id="_NG7iULirEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
+      <ownedOperation xmi:id="_NgDM8LirEee-QbCuXr1o5Q" name="choixCartes">
+        <ownedParameter xmi:id="_QftcALirEee-QbCuXr1o5Q" name="id_carte">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_QfuDELirEee-QbCuXr1o5Q" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
     </packagedElement>
     <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_gGibkLP4EeemToi0SOttnw" name="SendOperationEvent1" operation="_HPV4gLP4EeemToi0SOttnw"/>
     <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_gGjpsLP4EeemToi0SOttnw" name="ReceiveOperationEvent1" operation="_HPV4gLP4EeemToi0SOttnw"/>
