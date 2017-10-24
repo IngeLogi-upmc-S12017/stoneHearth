@@ -16,18 +16,20 @@ Ensuite pour modifier/ajouter un fichier/dossier sur le git.
 <b>1) Recuperer la version la plus a jour (eviter les conflits)
 git pull origin master
 </b>
+<br>
 <b>2)Ajouter tout les fichiers qu'on a modifié</b>
 git add *
 ou pour être plus précis
-git add <nomDossier>   OU git add <nomFichier>
-
+git add nomDossier OU git add nomFichier
+<br>
 <b>3)Commit (check les erreurs de conflits avec le serveur)</b>
 
 git commit -m "Ce que vous voulez"
 
+<i>
 ( vous mettez ce que vous voulez comme chaine de caractères mais essayez d'être explicite si vous faites une grosse mise à jour)
-(Par ex je modifie le UC_X je fais git commit -m "UC_X"
-
+(Par ex je modifie le UC_X je fais git commit -m "UC_X" ) </i>
+<br>
 
 <b>4)Envoyé sur le serveur</b> 
 git push origin master
