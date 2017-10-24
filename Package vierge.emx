@@ -84,7 +84,7 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_k0NZM6kDEeeLiuyc-M_t2w" type="Name"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_k0NZNKkDEeeLiuyc-M_t2w" type="Parent"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_k0NZNakDEeeLiuyc-M_t2w" visible="false" type="Extension_Points"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k0MyIakDEeeLiuyc-M_t2w" x="21120" y="4356"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_k0MyIakDEeeLiuyc-M_t2w" x="18348" y="3432"/>
         </children>
         <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_k4QLsKkDEeeLiuyc-M_t2w" element="_k4O9kKkDEeeLiuyc-M_t2w" fontName="Cantarell" fontHeight="8" showListStereotype="Text" showListVisibility="Text" showListSignature="true" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_k4QLsqkDEeeLiuyc-M_t2w" type="ImageCompartment">
@@ -1062,7 +1062,7 @@
           </children>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_Ey65YbP4EeemToi0SOttnw" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Ey7gcLP4EeemToi0SOttnw" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ey5EMbP4EeemToi0SOttnw" x="4356" y="1716" width="18833" height="12905"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Ey5EMbP4EeemToi0SOttnw" x="924" y="792" width="18833" height="12905"/>
         </children>
         <element xsi:nil="true"/>
       </contents>
@@ -1262,8 +1262,8 @@
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_O8yyQKkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_RJiWoakJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_9G-AMKkIEeeLiuyc-M_t2w" association="_RJiWoKkJEeeLiuyc-M_t2w">
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RJi9sakJEeeLiuyc-M_t2w" value="1"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_RJi9sKkJEeeLiuyc-M_t2w" value="1"/>
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RJi9sakJEeeLiuyc-M_t2w" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_RJi9sKkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_c_WuEKkJEeeLiuyc-M_t2w" name="nom" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
