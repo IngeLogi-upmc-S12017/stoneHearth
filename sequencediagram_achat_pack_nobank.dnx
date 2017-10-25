@@ -134,7 +134,9 @@
       <ownedAttribute xmi:id="_VA-QsbWKEeec17aQo4e-Bw" name="Property">
         <type xmi:type="uml:Actor" href="Package%20vierge.emx#_WKnSkKkDEeeLiuyc-M_t2w?Package%20vierge/Utilisateur?"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_VA-3wLWKEeec17aQo4e-Bw" name="stoneHearth"/>
+      <ownedAttribute xmi:id="_VA-3wLWKEeec17aQo4e-Bw" name="stoneHearth">
+        <type xmi:type="uml:Class" href="Package%20vierge.emx#_Ey3PALP4EeemToi0SOttnw?Package%20vierge/StoneHearth?"/>
+      </ownedAttribute>
       <ownedAttribute xmi:id="_VBU2AbWKEeec17aQo4e-Bw" name="Copie_1_Property">
         <type xmi:type="uml:Actor" href="Package%20vierge.emx#_WKnSkKkDEeeLiuyc-M_t2w?Package%20vierge/Utilisateur?"/>
       </ownedAttribute>

@@ -123,7 +123,7 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1ckOwrWJEeec17aQo4e-Bw" covered="_1ciZkLWJEeec17aQo4e-Bw" message="_1cpHQLWJEeec17aQo4e-Bw"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1cn5IrWJEeec17aQo4e-Bw" covered="_1ciZkLWJEeec17aQo4e-Bw" message="_1cqVYLWJEeec17aQo4e-Bw"/>
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1cogMLWJEeec17aQo4e-Bw" covered="_1chygLWJEeec17aQo4e-Bw" message="_1cqVYLWJEeec17aQo4e-Bw"/>
-        <message xmi:id="_1cpHQLWJEeec17aQo4e-Bw" name="fasle" messageSort="reply" receiveEvent="_1ckOwrWJEeec17aQo4e-Bw" sendEvent="_1ckOwbWJEeec17aQo4e-Bw" connector="_1cqVYbWJEeec17aQo4e-Bw"/>
+        <message xmi:id="_1cpHQLWJEeec17aQo4e-Bw" name="false" messageSort="reply" receiveEvent="_1ckOwrWJEeec17aQo4e-Bw" sendEvent="_1ckOwbWJEeec17aQo4e-Bw" connector="_1cqVYbWJEeec17aQo4e-Bw"/>
         <message xmi:id="_1cpHQ7WJEeec17aQo4e-Bw" name="verrifyBankCoord(&quot;u001&quot;)" receiveEvent="_1cjnsrWJEeec17aQo4e-Bw" sendEvent="_1cjnsbWJEeec17aQo4e-Bw" connector="_1cqVYbWJEeec17aQo4e-Bw"/>
         <message xmi:id="_1cpuUbWJEeec17aQo4e-Bw" name="achatDeck(&quot;u001&quot;)" receiveEvent="_1cjAorWJEeec17aQo4e-Bw" sendEvent="_1cjAobWJEeec17aQo4e-Bw" connector="_1cq8cbWJEeec17aQo4e-Bw"/>
         <message xmi:id="_1cqVYLWJEeec17aQo4e-Bw" name="false" messageSort="reply" receiveEvent="_1cogMLWJEeec17aQo4e-Bw" sendEvent="_1cn5IrWJEeec17aQo4e-Bw" connector="_1cq8cbWJEeec17aQo4e-Bw"/>
@@ -131,7 +131,9 @@
       <ownedAttribute xmi:id="_1ciZkbWJEeec17aQo4e-Bw" name="Property">
         <type xmi:type="uml:Actor" href="Package%20vierge.emx#_WKnSkKkDEeeLiuyc-M_t2w?Package%20vierge/Utilisateur?"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_1cjAoLWJEeec17aQo4e-Bw" name="stoneHearth"/>
+      <ownedAttribute xmi:id="_1cjAoLWJEeec17aQo4e-Bw" name="stoneHearth">
+        <type xmi:type="uml:Class" href="Package%20vierge.emx#_Ey3PALP4EeemToi0SOttnw?Package%20vierge/StoneHearth?"/>
+      </ownedAttribute>
       <ownedAttribute xmi:id="_1c4-4rWJEeec17aQo4e-Bw" name="Copie_1_Property">
         <type xmi:type="uml:Actor" href="Package%20vierge.emx#_WKnSkKkDEeeLiuyc-M_t2w?Package%20vierge/Utilisateur?"/>
       </ownedAttribute>
