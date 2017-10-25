@@ -23,7 +23,7 @@ Scénario:
   
 Résultat attendu: 
 Le système affiche "Carte supprimer avec succès".
-La carte "Dragon pourpre" a été supprimer de la collection, 50 joyaux ont été ajouter au compte de "BobDu77"
+La carte "Dragon pourpre" a été supprimer de la collection, 5 joyaux ont été ajouter au compte de "BobDu77"
 
 Moyens verification:
 
@@ -58,7 +58,7 @@ Scénario:
   
 Résultat attendu: 
 Le système affiche "Carte supprimer avec succès".
-La carte "Dragon jaune" a été supprimer de la collection, 20 joyaux ont été ajouter au compte de "BobDu77"
+La carte "Dragon jaune" a été supprimer de la collection, 2 joyaux ont été ajouter au compte de "BobDu77"
 
 Moyens verification:
 
@@ -93,7 +93,7 @@ Scénario:
   
 Résultat attendu: 
 Le système affiche "Carte supprimer avec succès".
-La carte "Dragon blanc" a été supprimer de la collection, 200 joyaux ont été ajouter au compte de "BobDu77"
+La carte "Dragon blanc" a été supprimer de la collection, 20 joyaux ont été ajouter au compte de "BobDu77"
 
 Moyens verification:
 
