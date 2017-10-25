@@ -632,7 +632,7 @@
           </children>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_Tz7VwakIEeeLiuyc-M_t2w" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Tz7VwqkIEeeLiuyc-M_t2w" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tz6HoakIEeeLiuyc-M_t2w" x="8712" y="1452" width="3647" height="4185"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Tz6HoakIEeeLiuyc-M_t2w" x="10428" y="1848" width="3647" height="4185"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_8VlmkKkIEeeLiuyc-M_t2w" element="_8VijQKkIEeeLiuyc-M_t2w" fontName="Cantarell" fontHeight="8" showListStereotype="Text" showListVisibility="Text" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_8VmNoKkIEeeLiuyc-M_t2w" type="ImageCompartment">
@@ -658,7 +658,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_9HAcdKkIEeeLiuyc-M_t2w" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_9HBDgKkIEeeLiuyc-M_t2w" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_9HBDgakIEeeLiuyc-M_t2w" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9G_1YakIEeeLiuyc-M_t2w" x="17688" y="5280"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9G_1YakIEeeLiuyc-M_t2w" x="19800" y="4620"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_NgKcMKkJEeeLiuyc-M_t2w" element="_NgHY4KkJEeeLiuyc-M_t2w" fontName="Cantarell" fontHeight="8" showListStereotype="Text" showListVisibility="Text" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_NgKcMqkJEeeLiuyc-M_t2w" type="ImageCompartment">
@@ -692,7 +692,7 @@
           </children>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_bH1Lx6kJEeeLiuyc-M_t2w" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_bH1LyKkJEeeLiuyc-M_t2w" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bH0ksakJEeeLiuyc-M_t2w" x="33264" y="8448" width="3585" height="2358"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bH0ksakJEeeLiuyc-M_t2w" x="30096" y="8184" width="3585" height="2358"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_wJPJAKkJEeeLiuyc-M_t2w" element="_wJNT0KkJEeeLiuyc-M_t2w" fontName="Cantarell" fontHeight="8" showListStereotype="Text" showListVisibility="Text" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="_wJPJAqkJEeeLiuyc-M_t2w" type="ImageCompartment">
@@ -709,7 +709,7 @@
           </children>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_wJPwFKkJEeeLiuyc-M_t2w" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_wJPwFakJEeeLiuyc-M_t2w" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wJPJAakJEeeLiuyc-M_t2w" x="24156" y="13200" width="3110" height="3698"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wJPJAakJEeeLiuyc-M_t2w" x="24156" y="12672" width="3903" height="3698"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="__UGJoKkJEeeLiuyc-M_t2w" element="__UDGUKkJEeeLiuyc-M_t2w" fontName="Cantarell" fontHeight="8" showListStereotype="Text" showListVisibility="Text" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Text">
           <children xmi:type="notation:DecorationNode" xmi:id="__UGwsKkJEeeLiuyc-M_t2w" type="ImageCompartment">
@@ -722,7 +722,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="__UH-0akJEeeLiuyc-M_t2w" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="__UH-0qkJEeeLiuyc-M_t2w" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="__UH-06kJEeeLiuyc-M_t2w" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__UGJoakJEeeLiuyc-M_t2w" x="1980" y="1980" width="3374" height="2111"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="__UGJoakJEeeLiuyc-M_t2w" x="4620" y="6204" width="2842" height="2876"/>
         </children>
         <element xsi:nil="true"/>
         <edges xmi:type="umlnotation:UMLConnector" xmi:id="_-m6I8KkIEeeLiuyc-M_t2w" element="_-m0pYKkIEeeLiuyc-M_t2w" source="_Tz6HoKkIEeeLiuyc-M_t2w" target="_9G_1YKkIEeeLiuyc-M_t2w" fontName="Cantarell" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -745,7 +745,7 @@
           </children>
           <children xmi:type="notation:DecorationNode" xmi:id="_-m6wA6kIEeeLiuyc-M_t2w" type="FromRoleLabel" element="_-m1QcKkIEeeLiuyc-M_t2w">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_-m6wBakIEeeLiuyc-M_t2w" type="FromRole"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_-m6wBKkIEeeLiuyc-M_t2w" y="-397"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_-m6wBKkIEeeLiuyc-M_t2w" x="-285" y="-315"/>
           </children>
           <children xmi:type="notation:DecorationNode" xmi:id="_-m6wBqkIEeeLiuyc-M_t2w" type="ToQualifierLabel" element="_-m3ssKkIEeeLiuyc-M_t2w">
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_-m6wCKkIEeeLiuyc-M_t2w" type="QualifierCompartment"/>
@@ -785,7 +785,7 @@
           </children>
           <children xmi:type="notation:DecorationNode" xmi:id="_I6vwRKkJEeeLiuyc-M_t2w" type="FromRoleLabel" element="_I6qQsKkJEeeLiuyc-M_t2w">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_I6vwRqkJEeeLiuyc-M_t2w" type="FromRole"/>
-            <layoutConstraint xmi:type="notation:Location" xmi:id="_I6vwRakJEeeLiuyc-M_t2w" x="74" y="-1394"/>
+            <layoutConstraint xmi:type="notation:Location" xmi:id="_I6vwRakJEeeLiuyc-M_t2w" x="34" y="-891"/>
           </children>
           <children xmi:type="notation:DecorationNode" xmi:id="_I6vwR6kJEeeLiuyc-M_t2w" type="ToQualifierLabel" element="_I6re0KkJEeeLiuyc-M_t2w">
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_I6vwSakJEeeLiuyc-M_t2w" type="QualifierCompartment"/>
@@ -1199,20 +1199,17 @@
       <ownedAttribute xmi:id="_xR9hEKkIEeeLiuyc-M_t2w" name="mdp" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_yFAHkKkIEeeLiuyc-M_t2w" name="pseudo?" visibility="private">
-        <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-      </ownedAttribute>
       <ownedAttribute xmi:id="_zN2mAKkIEeeLiuyc-M_t2w" name="rank" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_0iUekKkIEeeLiuyc-M_t2w" name="nb_joyaux" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_-m1QcKkIEeeLiuyc-M_t2w" name="compte_user" visibility="private" type="_9G-AMKkIEeeLiuyc-M_t2w" association="_-m0pYKkIEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_-m1QcKkIEeeLiuyc-M_t2w" name="decksMemorises" visibility="private" type="_9G-AMKkIEeeLiuyc-M_t2w" association="_-m0pYKkIEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_-m3FoKkIEeeLiuyc-M_t2w" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-m2ekKkIEeeLiuyc-M_t2w"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_I6qQsKkJEeeLiuyc-M_t2w" name="compte_user" visibility="private" type="_8VijQKkIEeeLiuyc-M_t2w" association="_I6ppoKkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_I6qQsKkJEeeLiuyc-M_t2w" name="pack" visibility="private" type="_8VijQKkIEeeLiuyc-M_t2w" association="_I6ppoKkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_I6q3wakJEeeLiuyc-M_t2w" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_I6q3wKkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
@@ -1229,41 +1226,41 @@
       <ownedAttribute xmi:id="_njWb0KkKEeeLiuyc-M_t2w" name="compteMatchs" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_CMWjwriuEeeys4zt59Zx4Q" name="compte_user" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_CMS5YLiuEeeys4zt59Zx4Q">
+      <ownedAttribute xmi:id="_CMWjwriuEeeys4zt59Zx4Q" name="collection" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_CMS5YLiuEeeys4zt59Zx4Q">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_CMXK0biuEeeys4zt59Zx4Q" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_CMXK0LiuEeeys4zt59Zx4Q"/>
       </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_8VijQKkIEeeLiuyc-M_t2w" name="Pack">
-      <ownedAttribute xmi:id="_I6re0KkJEeeLiuyc-M_t2w" name="pack" visibility="private" type="_Tz4ScKkIEeeLiuyc-M_t2w" association="_I6ppoKkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_I6re0KkJEeeLiuyc-M_t2w" name="compte_user" visibility="private" type="_Tz4ScKkIEeeLiuyc-M_t2w" association="_I6ppoKkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_I6re0qkJEeeLiuyc-M_t2w" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_I6re0akJEeeLiuyc-M_t2w" value="1"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_O8yLMKkJEeeLiuyc-M_t2w" name="pack" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_O8xkIKkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_O8yLMKkJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_O8xkIKkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_O8yLMqkJEeeLiuyc-M_t2w" value="5"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_O8yLMakJEeeLiuyc-M_t2w" value="5"/>
       </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Class" xmi:id="_9G-AMKkIEeeLiuyc-M_t2w" name="Decks">
-      <ownedAttribute xmi:id="_-m3ssKkIEeeLiuyc-M_t2w" name="decksMemorises" visibility="private" type="_Tz4ScKkIEeeLiuyc-M_t2w" association="_-m0pYKkIEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_-m3ssKkIEeeLiuyc-M_t2w" name="compte_user" visibility="private" type="_Tz4ScKkIEeeLiuyc-M_t2w" association="_-m0pYKkIEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_-m3ssqkIEeeLiuyc-M_t2w" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-m3ssakIEeeLiuyc-M_t2w" value="1"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_RJi9sqkJEeeLiuyc-M_t2w" name="deck" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_RJiWoKkJEeeLiuyc-M_t2w">
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RJjkwakJEeeLiuyc-M_t2w" value="1"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_RJjkwKkJEeeLiuyc-M_t2w" value="1"/>
+      <ownedAttribute xmi:id="_RJi9sqkJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_RJiWoKkJEeeLiuyc-M_t2w">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RJjkwakJEeeLiuyc-M_t2w" value="30"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_RJjkwKkJEeeLiuyc-M_t2w" value="30"/>
       </ownedAttribute>
     </packagedElement>
     <packagedElement xmi:type="uml:Association" xmi:id="_-m0pYKkIEeeLiuyc-M_t2w" memberEnd="_-m1QcKkIEeeLiuyc-M_t2w _-m3ssKkIEeeLiuyc-M_t2w"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_I6ppoKkJEeeLiuyc-M_t2w" memberEnd="_I6qQsKkJEeeLiuyc-M_t2w _I6re0KkJEeeLiuyc-M_t2w"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_NgHY4KkJEeeLiuyc-M_t2w" name="Carte">
-      <ownedAttribute xmi:id="_O8yLM6kJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_8VijQKkIEeeLiuyc-M_t2w" association="_O8xkIKkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_O8yLM6kJEeeLiuyc-M_t2w" name="pack" visibility="private" type="_8VijQKkIEeeLiuyc-M_t2w" association="_O8xkIKkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_O8yyQakJEeeLiuyc-M_t2w" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_O8yyQKkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_RJiWoakJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_9G-AMKkIEeeLiuyc-M_t2w" association="_RJiWoKkJEeeLiuyc-M_t2w">
-        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RJi9sakJEeeLiuyc-M_t2w" value="1"/>
-        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_RJi9sKkJEeeLiuyc-M_t2w" value="1"/>
+      <ownedAttribute xmi:id="_RJiWoakJEeeLiuyc-M_t2w" name="deck" visibility="private" type="_9G-AMKkIEeeLiuyc-M_t2w" association="_RJiWoKkJEeeLiuyc-M_t2w">
+        <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RJi9sakJEeeLiuyc-M_t2w" value="*"/>
+        <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_RJi9sKkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_c_WuEKkJEeeLiuyc-M_t2w" name="nom" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -1277,15 +1274,15 @@
       <ownedAttribute xmi:id="_s9GkMKkJEeeLiuyc-M_t2w" name="defense" visibility="private">
         <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_yqSwgKkJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_bHz9oKkJEeeLiuyc-M_t2w" association="_yqSJcKkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_yqSwgKkJEeeLiuyc-M_t2w" name="effet" visibility="private" type="_bHz9oKkJEeeLiuyc-M_t2w" association="_yqSJcKkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yqT-oakJEeeLiuyc-M_t2w" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yqT-oKkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_7JGv4KkJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_wJNT0KkJEeeLiuyc-M_t2w" association="_7JGI0KkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_7JGv4KkJEeeLiuyc-M_t2w" name="rarete" visibility="private" type="_wJNT0KkJEeeLiuyc-M_t2w" association="_7JGI0KkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7JHW8akJEeeLiuyc-M_t2w" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7JHW8KkJEeeLiuyc-M_t2w" value="1"/>
       </ownedAttribute>
-      <ownedAttribute xmi:id="_CMVVoLiuEeeys4zt59Zx4Q" name="collection" visibility="private" type="_Tz4ScKkIEeeLiuyc-M_t2w" association="_CMS5YLiuEeeys4zt59Zx4Q">
+      <ownedAttribute xmi:id="_CMVVoLiuEeeys4zt59Zx4Q" name="compte_user" visibility="private" type="_Tz4ScKkIEeeLiuyc-M_t2w" association="_CMS5YLiuEeeys4zt59Zx4Q">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_CMWjwbiuEeeys4zt59Zx4Q" value="1"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_CMWjwLiuEeeys4zt59Zx4Q" value="1"/>
       </ownedAttribute>
@@ -1293,7 +1290,7 @@
     <packagedElement xmi:type="uml:Association" xmi:id="_O8xkIKkJEeeLiuyc-M_t2w" memberEnd="_O8yLMKkJEeeLiuyc-M_t2w _O8yLM6kJEeeLiuyc-M_t2w"/>
     <packagedElement xmi:type="uml:Association" xmi:id="_RJiWoKkJEeeLiuyc-M_t2w" memberEnd="_RJiWoakJEeeLiuyc-M_t2w _RJi9sqkJEeeLiuyc-M_t2w"/>
     <packagedElement xmi:type="uml:Class" xmi:id="_bHz9oKkJEeeLiuyc-M_t2w" name="Effets &lt;&lt;enumeration>">
-      <ownedAttribute xmi:id="_yqVMwKkJEeeLiuyc-M_t2w" name="effet" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_yqSJcKkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_yqVMwKkJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_yqSJcKkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_yqVz0akJEeeLiuyc-M_t2w" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_yqVz0KkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
@@ -1303,7 +1300,7 @@
       <ownedAttribute xmi:id="_33ktsKkJEeeLiuyc-M_t2w" name="commune" visibility="private"/>
       <ownedAttribute xmi:id="_4ZXMIKkJEeeLiuyc-M_t2w" name="rare" visibility="private"/>
       <ownedAttribute xmi:id="_42IAoKkJEeeLiuyc-M_t2w" name="légendaire" visibility="private"/>
-      <ownedAttribute xmi:id="_7JH-AKkJEeeLiuyc-M_t2w" name="rarete" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_7JGI0KkJEeeLiuyc-M_t2w">
+      <ownedAttribute xmi:id="_7JH-AKkJEeeLiuyc-M_t2w" name="carte" visibility="private" type="_NgHY4KkJEeeLiuyc-M_t2w" association="_7JGI0KkJEeeLiuyc-M_t2w">
         <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7JIlEakJEeeLiuyc-M_t2w" value="*"/>
         <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7JIlEKkJEeeLiuyc-M_t2w"/>
       </ownedAttribute>
@@ -1612,7 +1609,7 @@
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_metP0LP-EeemToi0SOttnw">
             <eAnnotations xmi:id="_metP0bP-EeemToi0SOttnw" source="Parameter" references="_08ym0LP6EeemToi0SOttnw"/>
             <language></language>
-            <body>&quot;BObDu77&quot;</body>
+            <body>&quot;BobDu77&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_nhh-wLP-EeemToi0SOttnw">
             <eAnnotations xmi:id="_nhh-wbP-EeemToi0SOttnw" source="Parameter" references="_YLNcYLP7EeemToi0SOttnw"/>
@@ -5109,91 +5106,69 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYK197gKEees3aFOMtGOCw" covered="_pYK14rgKEees3aFOMtGOCw" event="_7TiZcLgLEees3aFOMtGOCw" message="_pYK1_7gKEees3aFOMtGOCw"/>
         <message xmi:id="_pYK1-LgKEees3aFOMtGOCw" name="creerCompte" receiveEvent="_pYK15bgKEees3aFOMtGOCw" sendEvent="_pYK15LgKEees3aFOMtGOCw" connector="_pYK13LgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK1-bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK1-rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK1-rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;djina&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK1-7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK1_LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Fc5hALMoEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK1_LgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;game&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK1_bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK1_rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_XUN7QLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK1_rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;stone@mail.com&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYK1_7gKEees3aFOMtGOCw" name="creerCompte" messageSort="reply" receiveEvent="_pYK197gKEees3aFOMtGOCw" sendEvent="_pYK19rgKEees3aFOMtGOCw" connector="_pYK13LgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2ALgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2AbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2AbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2ArgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2A7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Fc5hALMoEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2A7gKEees3aFOMtGOCw" source="Parameter"/>
           </argument>
         </message>
         <message xmi:id="_pYK2BLgKEees3aFOMtGOCw" name="verifierLoginDispo" receiveEvent="_pYK16LgKEees3aFOMtGOCw" sendEvent="_pYK157gKEees3aFOMtGOCw" connector="_pYK137gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2BbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2BrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2BrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;djina&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYK2B7gKEees3aFOMtGOCw" name="verifierLoginDispo" messageSort="reply" receiveEvent="_pYK167gKEees3aFOMtGOCw" sendEvent="_pYK16rgKEees3aFOMtGOCw" connector="_pYK137gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2CLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2CbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2CbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYK2CrgKEees3aFOMtGOCw" name="verifierPasswordValide" receiveEvent="_pYK17bgKEees3aFOMtGOCw" sendEvent="_pYK17LgKEees3aFOMtGOCw" connector="_pYK137gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2C7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2DLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2DLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;game&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYK2DbgKEees3aFOMtGOCw" name="verifierPasswordValide" messageSort="reply" receiveEvent="_pYK18LgKEees3aFOMtGOCw" sendEvent="_pYK177gKEees3aFOMtGOCw" connector="_pYK137gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2DrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2D7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2D7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYK2ELgKEees3aFOMtGOCw" name="verifierEmailValide" receiveEvent="_pYK18rgKEees3aFOMtGOCw" sendEvent="_pYK18bgKEees3aFOMtGOCw" connector="_pYK137gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2EbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2ErgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_UbO78LQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2ErgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;stone@mail.com&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYK2E7gKEees3aFOMtGOCw" name="verifierEmailValide" messageSort="reply" receiveEvent="_pYK19bgKEees3aFOMtGOCw" sendEvent="_pYK19LgKEees3aFOMtGOCw" connector="_pYK137gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYK2FLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYK2FbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_UbO78LQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYK2FbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
@@ -5322,16 +5297,12 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYQ8abgKEees3aFOMtGOCw" covered="_pYQ8WbgKEees3aFOMtGOCw" event="_WTDB8LgOEees3aFOMtGOCw" message="_pYQ8b7gKEees3aFOMtGOCw"/>
         <message xmi:id="_pYQ8argKEees3aFOMtGOCw" name="seConnecter" receiveEvent="_pYQ8XLgKEees3aFOMtGOCw" sendEvent="_pYQ8W7gKEees3aFOMtGOCw" connector="_pYQ8U7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYQ8a7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYQ8bLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Svt_8LM-EeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYQ8bLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;djina&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYQ8bbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYQ8brgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_SRNXoLNBEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYQ8brgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;game&quot;</body>
           </argument>
@@ -5339,36 +5310,28 @@
         <message xmi:id="_pYQ8b7gKEees3aFOMtGOCw" name="seConnecter" messageSort="reply" receiveEvent="_pYQ8abgKEees3aFOMtGOCw" sendEvent="_pYQ8aLgKEees3aFOMtGOCw" connector="_pYQ8U7gKEees3aFOMtGOCw"/>
         <message xmi:id="_pYQ8cLgKEees3aFOMtGOCw" name="verifierLoginReconnu" receiveEvent="_pYQ8X7gKEees3aFOMtGOCw" sendEvent="_pYQ8XrgKEees3aFOMtGOCw" connector="_pYQ8VrgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYQ8cbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYQ8crgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_rXq7ILQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYQ8crgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;djina&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYQ8c7gKEees3aFOMtGOCw" name="verifierLoginReconnu" messageSort="reply" receiveEvent="_pYQ8YrgKEees3aFOMtGOCw" sendEvent="_pYQ8YbgKEees3aFOMtGOCw" connector="_pYQ8VrgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYQ8dLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYQ8dbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_rXq7ILQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYQ8dbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYQ8drgKEees3aFOMtGOCw" name="verifierPasswordValide" receiveEvent="_pYQ8ZLgKEees3aFOMtGOCw" sendEvent="_pYQ8Y7gKEees3aFOMtGOCw" connector="_pYQ8VrgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYQ8d7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYQ8eLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYQ8eLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;game&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYQ8ebgKEees3aFOMtGOCw" name="verifierPasswordValide" messageSort="reply" receiveEvent="_pYQ8Z7gKEees3aFOMtGOCw" sendEvent="_pYQ8ZrgKEees3aFOMtGOCw" connector="_pYQ8VrgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYQ8ergKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYQ8e7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYQ8e7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
@@ -5497,30 +5460,22 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYT_yLgKEees3aFOMtGOCw" covered="_pYT_uLgKEees3aFOMtGOCw" event="_1cM9MLgMEees3aFOMtGOCw" message="_pYT_0rgKEees3aFOMtGOCw"/>
         <message xmi:id="_pYT_ybgKEees3aFOMtGOCw" name="setCoordBancaires" receiveEvent="_pYT_u7gKEees3aFOMtGOCw" sendEvent="_pYT_urgKEees3aFOMtGOCw" connector="_pYT_srgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_yrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_y7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_EznF4LNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_y7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00001</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_zLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_zbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8LNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_zbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00002</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_zrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_z7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8bNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_z7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;0000000000A&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_0LgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_0bgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8rNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_0bgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>03</body>
           </argument>
@@ -5528,78 +5483,58 @@
         <message xmi:id="_pYT_0rgKEees3aFOMtGOCw" name="setCoordBancaires" messageSort="reply" receiveEvent="_pYT_yLgKEees3aFOMtGOCw" sendEvent="_pYT_x7gKEees3aFOMtGOCw" connector="_pYT_srgKEees3aFOMtGOCw"/>
         <message xmi:id="_pYT_07gKEees3aFOMtGOCw" name="verifieCoordBancaires" receiveEvent="_pYT_vrgKEees3aFOMtGOCw" sendEvent="_pYT_vbgKEees3aFOMtGOCw" connector="_pYT_tbgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_1LgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_1bgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_qcVe0LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_1bgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00001</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_1rgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_17gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_qcWF4LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_17gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00002</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_2LgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_2bgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_qcWs8LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_2bgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;0000000000A&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_2rgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_27gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_qcX7ELQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_27gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>03</body>
           </argument>
         </message>
         <message xmi:id="_pYT_3LgKEees3aFOMtGOCw" name="verifieCoordBancaires" messageSort="reply" receiveEvent="_pYT_wbgKEees3aFOMtGOCw" sendEvent="_pYT_wLgKEees3aFOMtGOCw" connector="_pYT_tbgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_3bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_3rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_qcVe0LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_3rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYT_37gKEees3aFOMtGOCw" name="enregistreCoordBancaires" receiveEvent="_pYT_w7gKEees3aFOMtGOCw" sendEvent="_pYT_wrgKEees3aFOMtGOCw" connector="_pYT_tbgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_4LgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_4bgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_t8yt0LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_4bgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00001</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_4rgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_47gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_t8zU4LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_47gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00002</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_5LgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_5bgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_t8zU4bQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_5bgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;0000000000A&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_5rgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_57gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_t8z78LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_57gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>03</body>
           </argument>
         </message>
         <message xmi:id="_pYT_6LgKEees3aFOMtGOCw" name="enregistreCoordBancaires" messageSort="reply" receiveEvent="_pYT_xrgKEees3aFOMtGOCw" sendEvent="_pYT_xbgKEees3aFOMtGOCw" connector="_pYT_tbgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYT_6bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYT_6rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_t8yt0LQFEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYT_6rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
@@ -5706,50 +5641,38 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYXDC7gKEees3aFOMtGOCw" covered="_pYXDALgKEees3aFOMtGOCw" event="_7TiZcLgLEees3aFOMtGOCw" message="_pYXDE7gKEees3aFOMtGOCw"/>
         <message xmi:id="_pYXDDLgKEees3aFOMtGOCw" name="creerCompte" receiveEvent="_pYXDA7gKEees3aFOMtGOCw" sendEvent="_pYXDArgKEees3aFOMtGOCw" connector="_pYXC-rgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYXDDbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYXDDrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYXDDrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;joe&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYXDD7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYXDELgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Fc5hALMoEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYXDELgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;dzml&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYXDEbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYXDErgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_XUN7QLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYXDErgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;joe@mail.com&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYXDE7gKEees3aFOMtGOCw" name="creerCompte" messageSort="reply" receiveEvent="_pYXDC7gKEees3aFOMtGOCw" sendEvent="_pYXDCrgKEees3aFOMtGOCw" connector="_pYXC-rgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYXDFLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYXDFbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYXDFbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
         </message>
         <message xmi:id="_pYXDFrgKEees3aFOMtGOCw" name="verifierLoginDispo" receiveEvent="_pYXDBrgKEees3aFOMtGOCw" sendEvent="_pYXDBbgKEees3aFOMtGOCw" connector="_pYXC_bgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYXDF7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYXDGLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYXDGLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;joe&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYXDGbgKEees3aFOMtGOCw" name="verifierLoginDispo" messageSort="reply" receiveEvent="_pYXDCbgKEees3aFOMtGOCw" sendEvent="_pYXDCLgKEees3aFOMtGOCw" connector="_pYXC_bgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYXDGrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYXDG7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYXDG7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
@@ -5884,68 +5807,52 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYZfYrgKEees3aFOMtGOCw" covered="_pYZfUrgKEees3aFOMtGOCw" event="_7TiZcLgLEees3aFOMtGOCw" message="_pYZfargKEees3aFOMtGOCw"/>
         <message xmi:id="_pYZfY7gKEees3aFOMtGOCw" name="creerCompte" receiveEvent="_pYZfVbgKEees3aFOMtGOCw" sendEvent="_pYZfVLgKEees3aFOMtGOCw" connector="_pYZfTLgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfZLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfZbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfZbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;jack&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfZrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfZ7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Fc5hALMoEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfZ7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;mldz&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfaLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfabgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_XUN7QLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfabgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>jack@mail.com</body>
           </argument>
         </message>
         <message xmi:id="_pYZfargKEees3aFOMtGOCw" name="creerCompte" messageSort="reply" receiveEvent="_pYZfYrgKEees3aFOMtGOCw" sendEvent="_pYZfYbgKEees3aFOMtGOCw" connector="_pYZfTLgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfa7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfbLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfbLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
         </message>
         <message xmi:id="_pYZfbbgKEees3aFOMtGOCw" name="verifierLoginDispo" receiveEvent="_pYZfWLgKEees3aFOMtGOCw" sendEvent="_pYZfV7gKEees3aFOMtGOCw" connector="_pYZfT7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfbrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfb7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfb7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;jack&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYZfcLgKEees3aFOMtGOCw" name="verifierLoginDispo" messageSort="reply" receiveEvent="_pYZfW7gKEees3aFOMtGOCw" sendEvent="_pYZfWrgKEees3aFOMtGOCw" connector="_pYZfT7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfcbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfcrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfcrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYZfc7gKEees3aFOMtGOCw" name="verifierPasswordValide" receiveEvent="_pYZfXbgKEees3aFOMtGOCw" sendEvent="_pYZfXLgKEees3aFOMtGOCw" connector="_pYZfT7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfdLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfdbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfdbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;mldz&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYZfdrgKEees3aFOMtGOCw" name="verifierPasswordValide" messageSort="reply" receiveEvent="_pYZfYLgKEees3aFOMtGOCw" sendEvent="_pYZfX7gKEees3aFOMtGOCw" connector="_pYZfT7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYZfd7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYZfeLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYZfeLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
@@ -6099,86 +6006,66 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYciw7gKEees3aFOMtGOCw" covered="_pYcirrgKEees3aFOMtGOCw" event="_7TiZcLgLEees3aFOMtGOCw" message="_pYciy7gKEees3aFOMtGOCw"/>
         <message xmi:id="_pYcixLgKEees3aFOMtGOCw" name="creerCompte" receiveEvent="_pYcisbgKEees3aFOMtGOCw" sendEvent="_pYcisLgKEees3aFOMtGOCw" connector="_pYciqLgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYcixbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYcixrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYcixrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;john&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYcix7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYciyLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Fc5hALMoEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYciyLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;frml&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYciybgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYciyrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_XUN7QLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYciyrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;jack@mail.com&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYciy7gKEees3aFOMtGOCw" name="creerCompte" messageSort="reply" receiveEvent="_pYciw7gKEees3aFOMtGOCw" sendEvent="_pYciwrgKEees3aFOMtGOCw" connector="_pYciqLgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYcizLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYcizbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_zaC_kLMnEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYcizbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
         </message>
         <message xmi:id="_pYcizrgKEees3aFOMtGOCw" name="verifierLoginDispo" receiveEvent="_pYcitLgKEees3aFOMtGOCw" sendEvent="_pYcis7gKEees3aFOMtGOCw" connector="_pYciq7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYciz7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYci0LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYci0LgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;john&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYci0bgKEees3aFOMtGOCw" name="verifierLoginDispo" messageSort="reply" receiveEvent="_pYcit7gKEees3aFOMtGOCw" sendEvent="_pYcitrgKEees3aFOMtGOCw" connector="_pYciq7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYci0rgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYci07gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_aEXusLQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYci07gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYci1LgKEees3aFOMtGOCw" name="verifierPasswordValide" receiveEvent="_pYciubgKEees3aFOMtGOCw" sendEvent="_pYciuLgKEees3aFOMtGOCw" connector="_pYciq7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYci1bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYci1rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYci1rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;frml&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYci17gKEees3aFOMtGOCw" name="verifierPasswordValide" messageSort="reply" receiveEvent="_pYcivLgKEees3aFOMtGOCw" sendEvent="_pYciu7gKEees3aFOMtGOCw" connector="_pYciq7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYci2LgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYci2bgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_T1_rcLQCEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYci2bgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYci2rgKEees3aFOMtGOCw" name="verifierEmailValide" receiveEvent="_pYcivrgKEees3aFOMtGOCw" sendEvent="_pYcivbgKEees3aFOMtGOCw" connector="_pYciq7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYci27gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYci3LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_UbO78LQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYci3LgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;jack@mail.com&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYci3bgKEees3aFOMtGOCw" name="verifierEmailValide" messageSort="reply" receiveEvent="_pYciwbgKEees3aFOMtGOCw" sendEvent="_pYciwLgKEees3aFOMtGOCw" connector="_pYciq7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYci3rgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYci37gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_UbO78LQBEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYci37gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
@@ -6270,114 +6157,74 @@
         </ownedConnector>
         <lifeline xmi:id="_pYgMyrgKEees3aFOMtGOCw" name="utilisateur" represents="_pYgM7rgKEees3aFOMtGOCw" coveredBy="_pYgMzLgKEees3aFOMtGOCw _pYgM1bgKEees3aFOMtGOCw"/>
         <lifeline xmi:id="_pYgMy7gKEees3aFOMtGOCw" name="leSysteme" represents="_pYgM77gKEees3aFOMtGOCw" coveredBy="_pYgMzbgKEees3aFOMtGOCw _pYgMzrgKEees3aFOMtGOCw _pYgM1LgKEees3aFOMtGOCw _pYgMz7gKEees3aFOMtGOCw _pYgM0LgKEees3aFOMtGOCw _pYgM0bgKEees3aFOMtGOCw _pYgM0rgKEees3aFOMtGOCw _pYgM07gKEees3aFOMtGOCw"/>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgMzLgKEees3aFOMtGOCw" covered="_pYgMyrgKEees3aFOMtGOCw" message="_pYgM1rgKEees3aFOMtGOCw">
-          <event xmi:type="uml:SendOperationEvent" href="Package%20viergeIbra.emx#_36p2cLNHEeeaZdJwbhYb7A"/>
-        </fragment>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgMzbgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM1rgKEees3aFOMtGOCw">
-          <event xmi:type="uml:ReceiveOperationEvent" href="Package%20viergeIbra.emx#_36p2cbNHEeeaZdJwbhYb7A"/>
-        </fragment>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgMzLgKEees3aFOMtGOCw" covered="_pYgMyrgKEees3aFOMtGOCw" message="_pYgM1rgKEees3aFOMtGOCw"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgMzbgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM1rgKEees3aFOMtGOCw"/>
         <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_pYgMzrgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" start="_pYgMzbgKEees3aFOMtGOCw" finish="_pYgM1LgKEees3aFOMtGOCw"/>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgMz7gKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM4rgKEees3aFOMtGOCw">
-          <event xmi:type="uml:SendOperationEvent" href="Package%20viergeIbra.emx#_36p2cLNHEeeaZdJwbhYb7A"/>
-        </fragment>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM0LgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM4rgKEees3aFOMtGOCw">
-          <event xmi:type="uml:ReceiveOperationEvent" href="Package%20viergeIbra.emx#_36p2cbNHEeeaZdJwbhYb7A"/>
-        </fragment>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgMz7gKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM4rgKEees3aFOMtGOCw"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM0LgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM4rgKEees3aFOMtGOCw"/>
         <fragment xmi:type="uml:BehaviorExecutionSpecification" xmi:id="_pYgM0bgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" start="_pYgM0LgKEees3aFOMtGOCw" finish="_pYgM0rgKEees3aFOMtGOCw"/>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM0rgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM67gKEees3aFOMtGOCw">
-          <event xmi:type="uml:SendOperationEvent" href="Package%20viergeIbra.emx#_36p2cLNHEeeaZdJwbhYb7A"/>
-        </fragment>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM07gKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM67gKEees3aFOMtGOCw">
-          <event xmi:type="uml:ReceiveOperationEvent" href="Package%20viergeIbra.emx#_36p2cbNHEeeaZdJwbhYb7A"/>
-        </fragment>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM1LgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM4bgKEees3aFOMtGOCw">
-          <event xmi:type="uml:SendOperationEvent" href="Package%20viergeIbra.emx#_36p2cLNHEeeaZdJwbhYb7A"/>
-        </fragment>
-        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM1bgKEees3aFOMtGOCw" covered="_pYgMyrgKEees3aFOMtGOCw" message="_pYgM4bgKEees3aFOMtGOCw">
-          <event xmi:type="uml:ReceiveOperationEvent" href="Package%20viergeIbra.emx#_36p2cbNHEeeaZdJwbhYb7A"/>
-        </fragment>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM0rgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM67gKEees3aFOMtGOCw"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM07gKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM67gKEees3aFOMtGOCw"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM1LgKEees3aFOMtGOCw" covered="_pYgMy7gKEees3aFOMtGOCw" message="_pYgM4bgKEees3aFOMtGOCw"/>
+        <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYgM1bgKEees3aFOMtGOCw" covered="_pYgMyrgKEees3aFOMtGOCw" message="_pYgM4bgKEees3aFOMtGOCw"/>
         <message xmi:id="_pYgM1rgKEees3aFOMtGOCw" name="coordBancaires" receiveEvent="_pYgMzbgKEees3aFOMtGOCw" sendEvent="_pYgMzLgKEees3aFOMtGOCw" connector="_pYgMxLgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM17gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM2LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_EznF4LNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM2LgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>0001</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM2bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM2rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8LNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM2rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00002</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM27gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM3LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8bNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM3LgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>0000000B</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM3bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM3rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8rNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM3rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>02</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM37gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM4LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_HmOXcLNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM4LgKEees3aFOMtGOCw" source="Parameter"/>
           </argument>
         </message>
         <message xmi:id="_pYgM4bgKEees3aFOMtGOCw" name="coordBancaires" messageSort="reply" receiveEvent="_pYgM1bgKEees3aFOMtGOCw" sendEvent="_pYgM1LgKEees3aFOMtGOCw" connector="_pYgMxLgKEees3aFOMtGOCw"/>
         <message xmi:id="_pYgM4rgKEees3aFOMtGOCw" name="coordBancaires" receiveEvent="_pYgM0LgKEees3aFOMtGOCw" sendEvent="_pYgMz7gKEees3aFOMtGOCw" connector="_pYgMx7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM47gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM5LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_EznF4LNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM5LgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>0001</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM5bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM5rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8LNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM5rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00002</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM57gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM6LgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8bNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM6LgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>00000000B</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM6bgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM6rgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Ezns8rNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM6rgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>02</body>
           </argument>
         </message>
         <message xmi:id="_pYgM67gKEees3aFOMtGOCw" name="coordBancaires" messageSort="reply" receiveEvent="_pYgM07gKEees3aFOMtGOCw" sendEvent="_pYgM0rgKEees3aFOMtGOCw" connector="_pYgMx7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYgM7LgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYgM7bgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_EznF4LNIEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYgM7bgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
         </message>
       </ownedBehavior>
-      <ownedAttribute xmi:id="_pYgM7rgKEees3aFOMtGOCw" name="ben">
-        <type xmi:type="uml:Actor" href="Package%20viergeIbra.emx#_WKnSkKkDEeeLiuyc-M_t2w"/>
-      </ownedAttribute>
-      <ownedAttribute xmi:id="_pYgM77gKEees3aFOMtGOCw" name="leSysteme">
-        <type xmi:type="uml:Class" href="Package%20viergeIbra.emx#_N6s7ILMlEeeaZdJwbhYb7A"/>
-      </ownedAttribute>
+      <ownedAttribute xmi:id="_pYgM7rgKEees3aFOMtGOCw" name="ben"/>
+      <ownedAttribute xmi:id="_pYgM77gKEees3aFOMtGOCw" name="leSysteme"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Collaboration" xmi:id="_pYiB4LgKEees3aFOMtGOCw" name="Se connecter(echec login)">
       <ownedBehavior xmi:type="uml:Interaction" xmi:id="_pYiB4bgKEees3aFOMtGOCw" name="Se Connecter">
@@ -6474,43 +6321,33 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYipN7gKEees3aFOMtGOCw" covered="_pYipLLgKEees3aFOMtGOCw" event="_WTDB8LgOEees3aFOMtGOCw" message="_pYipPbgKEees3aFOMtGOCw"/>
         <message xmi:id="_pYipOLgKEees3aFOMtGOCw" name="seConnecter" receiveEvent="_pYipL7gKEees3aFOMtGOCw" sendEvent="_pYipLrgKEees3aFOMtGOCw" connector="_pYipJrgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYipObgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYipOrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Svt_8LM-EeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYipOrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;amed&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYipO7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYipPLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_SRNXoLNBEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYipPLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;game&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYipPbgKEees3aFOMtGOCw" name="seConnecter" messageSort="reply" receiveEvent="_pYipN7gKEees3aFOMtGOCw" sendEvent="_pYipNrgKEees3aFOMtGOCw" connector="_pYipJrgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYipPrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYipP7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Svt_8LM-EeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYipP7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
         </message>
         <message xmi:id="_pYipQLgKEees3aFOMtGOCw" name="verifierLoginReconnu" receiveEvent="_pYipMrgKEees3aFOMtGOCw" sendEvent="_pYipMbgKEees3aFOMtGOCw" connector="_pYipKbgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYipQbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYipQrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_rXq7ILQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYipQrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;amed&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYipQ7gKEees3aFOMtGOCw" name="verifierLoginReconnu" messageSort="reply" receiveEvent="_pYipNbgKEees3aFOMtGOCw" sendEvent="_pYipNLgKEees3aFOMtGOCw" connector="_pYipKbgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYipRLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYipRbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_rXq7ILQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYipRbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
@@ -6639,61 +6476,47 @@
         <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pYkefrgKEees3aFOMtGOCw" covered="_pYkebrgKEees3aFOMtGOCw" event="_WTDB8LgOEees3aFOMtGOCw" message="_pYkehLgKEees3aFOMtGOCw"/>
         <message xmi:id="_pYkef7gKEees3aFOMtGOCw" name="seConnecter" receiveEvent="_pYkecbgKEees3aFOMtGOCw" sendEvent="_pYkecLgKEees3aFOMtGOCw" connector="_pYkeaLgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYkegLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYkegbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Svt_8LM-EeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYkegbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;djina&quot;</body>
           </argument>
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYkegrgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYkeg7gKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_SRNXoLNBEeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYkeg7gKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;mlfr&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYkehLgKEees3aFOMtGOCw" name="seConnecter" messageSort="reply" receiveEvent="_pYkefrgKEees3aFOMtGOCw" sendEvent="_pYkefbgKEees3aFOMtGOCw" connector="_pYkeaLgKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYkehbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYkehrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_Svt_8LM-EeeaZdJwbhYb7A"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYkehrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>
         </message>
         <message xmi:id="_pYkeh7gKEees3aFOMtGOCw" name="verifierLoginReconnu" receiveEvent="_pYkedLgKEees3aFOMtGOCw" sendEvent="_pYkec7gKEees3aFOMtGOCw" connector="_pYkea7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYkeiLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYkeibgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_rXq7ILQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYkeibgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;djina&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYkeirgKEees3aFOMtGOCw" name="verifierLoginReconnu" messageSort="reply" receiveEvent="_pYked7gKEees3aFOMtGOCw" sendEvent="_pYkedrgKEees3aFOMtGOCw" connector="_pYkea7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYkei7gKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYkejLgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_rXq7ILQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYkejLgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>true</body>
           </argument>
         </message>
         <message xmi:id="_pYlFMLgKEees3aFOMtGOCw" name="verifiePasswordCorrect" receiveEvent="_pYkeebgKEees3aFOMtGOCw" sendEvent="_pYkeeLgKEees3aFOMtGOCw" connector="_pYkea7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYlFMbgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYlFMrgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_1eJb4LQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYlFMrgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>&quot;mlfr&quot;</body>
           </argument>
         </message>
         <message xmi:id="_pYlFM7gKEees3aFOMtGOCw" name="verifiePasswordCorrect" messageSort="reply" receiveEvent="_pYkefLgKEees3aFOMtGOCw" sendEvent="_pYkee7gKEees3aFOMtGOCw" connector="_pYkea7gKEees3aFOMtGOCw">
           <argument xmi:type="uml:OpaqueExpression" xmi:id="_pYlFNLgKEees3aFOMtGOCw">
-            <eAnnotations xmi:id="_pYlFNbgKEees3aFOMtGOCw" source="Parameter">
-              <references xmi:type="uml:Parameter" href="Package%20viergeIbra.emx#_1eJb4LQEEeeY2dqzu524Sw"/>
-            </eAnnotations>
+            <eAnnotations xmi:id="_pYlFNbgKEees3aFOMtGOCw" source="Parameter"/>
             <language></language>
             <body>false</body>
           </argument>

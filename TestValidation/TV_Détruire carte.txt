@@ -1,11 +1,11 @@
-Auteur: JEUDY Jordan
+﻿Auteur: JEUDY Jordan
 
 
 
 Titre: Détruire une carte rare nominal 
 
 
-Contexte: L'utilisateur de login "BobDu77" est connecté
+Contexte: L'utilisateur de login "BobDu77" est connecté et a acheté la carte "Dragon pourpre"
 
 
 
@@ -40,7 +40,7 @@ Auteur: JEUDY Jordan
 Titre: Détruire une carte commune nominal 
 
 
-Contexte: L'utilisateur de login "BobDu77" est connecté
+Contexte: L'utilisateur de login "BobDu77" est connecté et a acheté la carte "Dragon jaune" 
 
 
 
@@ -75,7 +75,7 @@ Auteur: JEUDY Jordan
 Titre: Détruire une carte légendaire nominal 
 
 
-Contexte: L'utilisateur de login "BobDu77" est connecté
+Contexte: L'utilisateur de login "BobDu77" est connecté et a acheté la carte "Dragon blanc" 
 
 
 
@@ -111,7 +111,7 @@ Auteur: JEUDY Jordan
 Titre: Détruire une carte basique E1
 
 
-Contexte: L'utilisateur de login "BobDu77" est connecté
+Contexte: L'utilisateur de login "BobDu77" est connecté et possède la carte "Fourmis rouge"
 
 
 
@@ -148,7 +148,7 @@ Auteur: JEUDY Jordan
 Titre: Détruire une carte E2 Annulation
 
 
-Contexte: L'utilisateur de login "BobDu77" est connecté
+Contexte: L'utilisateur de login "BobDu77" est connecté et possède la carte "Dragon blanc" 
 
 
 
@@ -183,11 +183,7 @@ Auteur: JEUDY Jordan
 Titre: Détruire une carte E3 Destruction d'une carte appartenant à un deck
 
 
-Contexte: L'utilisateur de login "BobDu77" est connecté
-
-
-
-, il a un deck qui contient la carte "Fourmis Rouge"
+Contexte: L'utilisateur de login "BobDu77" est connecté, il a un deck qui contient la carte "Fourmis Rouge"
 
 Entrée: nom de carte = "Fourmis Rouge"
 
