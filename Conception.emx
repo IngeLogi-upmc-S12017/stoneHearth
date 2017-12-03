@@ -1508,7 +1508,7 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_V5HDINUGEeeFpt4Ob86RMQ" type="Name"/>
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_V5HDIdUGEeeFpt4Ob86RMQ" type="Parent"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_V5HDItUGEeeFpt4Ob86RMQ" type="PackageContents" collapsed="true" canonical="false"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V5F1ANUGEeeFpt4Ob86RMQ" x="1585" y="2536" width="18464" height="8356"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_V5F1ANUGEeeFpt4Ob86RMQ" x="1585" y="2536" width="20554" height="11689"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_ZLKpwNUGEeeFpt4Ob86RMQ" element="_qA4lwM-MEeeacZFBqU1vXA" fontName="Noto Sans" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_ZLL34NUGEeeFpt4Ob86RMQ" type="ImageCompartment">
@@ -1521,7 +1521,7 @@
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_ZLMe8dUGEeeFpt4Ob86RMQ" type="OperationCompartment"/>
           <children xmi:type="notation:SemanticListCompartment" xmi:id="_ZLNGANUGEeeFpt4Ob86RMQ" visible="false" type="SignalCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_ZLNGAdUGEeeFpt4Ob86RMQ" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZLKpwdUGEeeFpt4Ob86RMQ" x="4438" y="7608"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZLKpwdUGEeeFpt4Ob86RMQ" x="4438" y="7608" width="2376" height="2270"/>
         </children>
         <children xmi:type="umlnotation:UMLShape" xmi:id="_Z6X5INUGEeeFpt4Ob86RMQ" element="_rSewgM-MEeeacZFBqU1vXA" fontName="Noto Sans" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_Z6ZHQNUGEeeFpt4Ob86RMQ" type="ImageCompartment">
