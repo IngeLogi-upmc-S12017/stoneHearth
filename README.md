@@ -3,10 +3,10 @@ groupe S.I.J.J. s1 2017
 
 TUTO github en ligne de commande
 
-<b>A la fac faites la commande: export https_proxy=proxy:3128</b>
+<b>A la fac faites la commande (si le temps d'un git clone/pull/etc. est trop long): export https_proxy=proxy:3128</b>
 
 
-<i>1ere fois pour récuperer le projet entier:</i><br>
+<i>1ere fois pour récuperer le projet en entier:</i><br>
 git clone https://github.com/IngeLogi-upmc-S12017/stoneHearth.git
 
 
