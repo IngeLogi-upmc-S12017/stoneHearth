@@ -1,0 +1,14 @@
+Auteur: Ibrahima CAMARA 
+titre: se connecter à son compte utilisateur
+
+Context: l'utilisateur "djina" existe. il choisit de se connecer à son compte
+
+Entrée: login: "djina", password: "game"
+
+scenario: 1- l'utilisateur ouvre le formaulaire pour se connecter à son compte
+          2- l'utilisateur saisit son login "djina" et son mot de passe "game"
+          3- validation de la connection
+
+resultat: l'utilisateur est connecté à son compte
+
+moyen de verification: avec la fonction gererCompte() ou jouerPartie()

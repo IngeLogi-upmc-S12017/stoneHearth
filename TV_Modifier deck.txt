@@ -1,0 +1,108 @@
+Auteur: JEUDY Jordan
+
+
+
+Titre: Modifier deck nominal 
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté
+
+
+
+ et il a crée un deck
+
+Entrée: deck=01, carteA="Chien rouge", carteB="Chevalier fou"
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur "modifier un deck"
+2.L'utilisateur selectionne le deck 01
+3.L'utilisateur selectionne la carte "Chien rouge"
+4.L'utilisateur selectionne la carte "Chevalier fou"
+5.L'utilisateur refuse de continuer la modification de deck
+
+
+Résultat attendu: 
+Le système affiche "Deck modifié".
+Le deck a été modifier la carte "Chevalier fou" remplace la carte "Chien rouge".
+
+Moyens verification:
+
+Visuel, consulter le deck 01
+
+================================================
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Modifier deck A1 Boucle
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté
+
+
+
+ et il a crée un deck
+
+Entrée: deck=01, carteA1="Chien rouge", carteB1="Chevalier fou", carteA2="Chien jaune", carteB2="Chevalier noble"
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur "modifier un deck"
+2.L'utilisateur selectionne le deck 01
+3.L'utilisateur selectionne la carte "Chien rouge"
+4.L'utilisateur selectionne la carte "Chevalier fou"
+5.L'utilisateur accepte de continuer la modification de deck
+6.L'utilisateur selectionne la carte "Chien jaune"
+7.L'utilisateur selectionne la carte "Chevalier noble"
+8.L'utilisateur refuse de continuer la modification de deck
+
+Résultat attendu: 
+Le système affiche "Deck modifié".
+Le deck a été modifier la carte "Chevalier fou" remplace la carte "Chien rouge".
+Et la carte "Chevalier noble" remplace la carte "Chien jaune".
+
+Moyens verification:
+
+Visuel, consulter le deck 01
+
+================================================
+
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Modifier deck E1 Pas de deck disponible 
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté
+
+
+
+ et il n'a pas crée de deck
+
+Entrée:
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur "modifier un deck"
+
+Résultat attendu: 
+Le système affiche "Erreur pas de deck disponible".
+
+Moyens verification:
+Visuel, consulter gérer deck, il n'a pas de deck à selectionner
+
+================================================
+
+
+
+
