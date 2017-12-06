@@ -122,13 +122,13 @@
         <message xmi:id="_nC4-8Li0EeekBe2OU--Ciw" name="gererCompte()" receiveEvent="_nC0tgLi0EeekBe2OU--Ciw" sendEvent="_nC0GcLi0EeekBe2OU--Ciw" connector="_35gn4LQAEeeTptdYn5RMSw"/>
       </ownedBehavior>
       <ownedAttribute xmi:id="_EtlpQLP_EeeTptdYn5RMSw" name="util">
-        <type xmi:type="uml:Actor" href="Package%20vierge.emx#_WKnSkKkDEeeLiuyc-M_t2w?Package%20vierge/Utilisateur?"/>
+        <type xmi:type="uml:Actor" href="Package%20vierge.emx#_WKnSkKkDEeeLiuyc-M_t2w?Analyse/Utilisateur?"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_FDfn0bP_EeeTptdYn5RMSw" name="StoneHearth">
-        <type xmi:type="uml:UseCase" href="Package%20vierge.emx#_hhRzYKkEEeeLiuyc-M_t2w?Package%20vierge/Gérer%20Compte?"/>
+        <type xmi:type="uml:UseCase" href="Package%20vierge.emx#_hhRzYKkEEeeLiuyc-M_t2w?Analyse/Gérer%20Compte?"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_FumaUbP_EeeTptdYn5RMSw" name="Property3">
-        <type xmi:type="uml:UseCase" href="Package%20vierge.emx#_ukIlsKkEEeeLiuyc-M_t2w?Package%20vierge/Indiquer%20Coordonnées%20Bancaires?"/>
+        <type xmi:type="uml:UseCase" href="Package%20vierge.emx#_ukIlsKkEEeeLiuyc-M_t2w?Analyse/Indiquer%20Coordonnées%20Bancaires?"/>
       </ownedAttribute>
       <ownedAttribute xmi:id="_1utkQ7QAEeeTptdYn5RMSw" name="stoneHearth"/>
     </packagedElement>
