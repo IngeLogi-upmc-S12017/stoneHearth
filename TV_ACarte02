@@ -1,0 +1,28 @@
+Titre : AchatCarteNoJewel
+
+ID/Version : TV_ACarte02 V1 18/10/2017
+
+Auteur : Justin Rudat
+
+Contexte : l'utilisateur "u003" est connecté et n'as pas assez de joyaux pour acheter une carte
+
+Entrée : idUser = "u003"
+
+Scénario :  1) l'utilisateur "u003" clique sur le bouton "Acheter une carte"
+
+			2) affichage des cartes disponibles 
+
+			3) l'utilisateur clique sur la carte qu'il souhaite
+
+			4) affichage d'une boite de dialogue demandant la validation de l'achat
+
+			5) l'utilisateur clique pour confirmer
+
+			6) vérification du crédit
+
+			7) affichage boite de dialogue "Nombre de joyaux insuffisant. Pensez à vendre des cartes."
+
+Résultat attendu : rien ne change
+
+Moyen de Vérrification : visuel
+

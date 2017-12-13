@@ -1,0 +1,21 @@
+Titre : AchatDeckAnnule
+
+ID/Version : TV_ADeck03 V1 18/10/2017
+
+Auteur : Justin Rudat
+
+Contexte : l'utilisateur "u001" est connecté et ses coordonnées bancaires sont définies.
+
+Entrée : idUser = "u001"
+
+Scénario :  1) l'utilisateur "u001" clique sur le bouton "Acheter un deck"
+
+			2) vérrification des coordonnées bancaires et demande de validation de l'achat
+
+			3) l'utilisateur annule la demande d'achat
+
+			4) affichage "l'achat à été annulé"
+
+Résultat attendu : rien ne change
+
+Moyen de Vérrification : visuel

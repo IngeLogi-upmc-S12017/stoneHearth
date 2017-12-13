@@ -1,0 +1,30 @@
+Titre : AchatCarteSuccess
+
+ID/Version : TV_ACarte01 V1 18/10/2017
+
+Auteur : Justin Rudat
+
+Contexte : l'utilisateur "u004" est connecté et a suffisement de joyaux pour acheter une carte
+
+Entrée : idUser = "u004"
+
+Scénario :  1) l'utilisateur "u004" clique sur le bouton "Acheter une carte"
+
+			2) affichage des cartes disponibles 
+
+			3) l'utilisateur clique sur la carte qu'il souhaite
+
+			4) affichage d'une boite de dialogue demandant la validation de l'achat
+
+			5) l'utilisateur clique pour confirmer
+
+			6) vérification du crédit et débit des joyaux nécessaire à l'achat.
+
+			7) affichage "Achat correctement effectuer."
+
+			8) ajout de la carte à la collection du compte de l'utilisateur "u004"
+
+Résultat attendu : la carte demandée apparait dans la liste de carte disponible de l'utilisateur
+et le nombre de joyaux a été décrémenté de la somme nécessaire
+
+Moyen de Vérrification : la carte apparait dans la collection de l'utilisateur "u004"

@@ -1,0 +1,42 @@
+nom : créer un compte
+auteur: Ibrahima Camara
+description: création d'un compte par un invité.
+date: 11-10-2017
+acteurs: invité
+
+précondition: aucune
+
+scénario nominal: 
+                SN1- l'invité choisit de créer un compte
+                SN2- le système presente un formulaire pour entrer les information personnelles
+                SN3- l'invité saisit les informations personnelles
+                SN4- le système verifie si le login est disponible
+				SN5- le système verifie si le mot de passe est valide
+                SN6- le système verifie si l'address mail est valide
+                SN7- le système démande à l'invité de confirmer les informations saisies
+                SN8- l'invité valide la création du compte
+                SN9- le système enregistre la création de compte
+
+post-conditions: 
+                1- la création du compte est validée
+                2- l'invité devient utilisateur
+				3- il peut se connecter 
+
+exceptions: 
+            E1: login non disponible
+                E1_1: en SN4, le login existe deja
+                E1_2: le système affiche "ce login n'est pas disponible, veuiller changer"
+
+	        E2: mot de passe non valides
+                E2_1: en SN5, le système ne valide pas le mot de passe
+                E2_2: le système affiche "ce mot de passe n'est pas valable, veuiller changer"
+            
+			E3: addresse mail invalidée
+				E3_1: en SN6, le système découvre que l'invité n'a pas saisi une addresse mail valide
+                E3_2: le système affiche "addresse mail non valide" 
+
+            E4: Annulation
+                E4_1: en SN8, l'invité annule la création du compte
+                E4_2: le système affiche "crétion de compte annulée"  
+alternative:  
+

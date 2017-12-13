@@ -1,0 +1,208 @@
+﻿Auteur: JEUDY Jordan
+
+
+
+Titre: Détruire une carte rare nominal 
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté et a acheté la carte "Dragon pourpre"
+
+
+
+
+
+Entrée: nom de carte = "Dragon pourpre" qui est une carte rare
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur detruire carte
+2.cliquer sur la carte "Dragon pourpre"
+3.Valider la destruction de la carte
+  
+Résultat attendu: 
+Le système affiche "Carte supprimer avec succès".
+La carte "Dragon pourpre" a été supprimer de la collection, 5 joyaux ont été ajouter au compte de "BobDu77"
+
+Moyens verification:
+
+Visuel, consulter la collection de "BobDu77" la carte "Dragon pourpre" n'est pas présente ou compte une occurence en moins.
+Visuel, consulter le nombre de joyaux de "BobDu77" avec la fonctionnalité gérer compte
+
+
+================================================
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Détruire une carte commune nominal 
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté et a acheté la carte "Dragon jaune" 
+
+
+
+
+
+Entrée: nom de carte = "Dragon jaune" qui est une carte commune
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur detruire carte
+2.cliquer sur la carte "Dragon jaune"
+3.Valider la destruction de la carte
+  
+Résultat attendu: 
+Le système affiche "Carte supprimer avec succès".
+La carte "Dragon jaune" a été supprimer de la collection, 2 joyaux ont été ajouter au compte de "BobDu77"
+
+Moyens verification:
+
+Visuel, consulter la collection de "BobDu77" la carte "Dragon jaune" n'est pas présente ou compte une occurence en moins.
+Visuel, consulter le nombre de joyaux de "BobDu77" avec la fonctionnalité gérer compte
+
+
+================================================
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Détruire une carte légendaire nominal 
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté et a acheté la carte "Dragon blanc" 
+
+
+
+
+
+Entrée: nom de carte = "Dragon blanc" qui est une carte légendaire 
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur detruire carte
+2.cliquer sur la carte "Dragon blanc"
+3.Valider la destruction de la carte
+  
+Résultat attendu: 
+Le système affiche "Carte supprimer avec succès".
+La carte "Dragon blanc" a été supprimer de la collection, 20 joyaux ont été ajouter au compte de "BobDu77"
+
+Moyens verification:
+
+Visuel, consulter la collection de "BobDu77" la carte "Dragon blanc", n'est pas présente ou compte une occurence en moins.
+Visuel, consulter le nombre de joyaux de "BobDu77" avec la fonctionnalité gérer compte
+
+
+================================================
+
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Détruire une carte basique E1
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté et possède la carte "Fourmis rouge"
+
+
+
+
+
+Entrée: nom de carte = "Fourmis rouge" qui est une carte basique 
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur detruire carte
+2.cliquer sur la carte "Fourmis rouge"
+3.Valider la destruction de la carte
+  
+Résultat attendu: 
+Le système affiche "Impossible de supprimer une carte basique".
+La carte n'est pas détruite et aucun joyaux n'est crédité.
+
+Moyens verification:
+
+Visuel, consulter la collection de "BobDu77" la carte "Fourmis rouge" est toujours présente
+Visuel, consulter le nombre de joyaux de "BobDu77" avec la fonctionnalité gérer compte
+
+
+================================================
+
+
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Détruire une carte E2 Annulation
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté et possède la carte "Dragon blanc" 
+
+
+
+
+
+Entrée: nom de carte = "Dragon blanc" 
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur detruire carte
+2.cliquer sur la carte "Dragon blanc"
+3.Annuler la destruction de la carte
+  
+Résultat attendu: 
+Le système affiche "La carte n'a pas été supprimer".
+La carte n'est pas détruite et aucun joyaux n'est crédité.
+
+Moyens verification:
+
+Visuel, consulter la collection de "BobDu77" la carte "Dragon blanc" est toujours présente
+Visuel, consulter le nombre de joyaux de "BobDu77" avec la fonctionnalité gérer compte
+
+
+================================================
+
+Auteur: JEUDY Jordan
+
+
+
+Titre: Détruire une carte E3 Destruction d'une carte appartenant à un deck
+
+
+Contexte: L'utilisateur de login "BobDu77" est connecté, il a un deck qui contient la carte "Fourmis Rouge"
+
+Entrée: nom de carte = "Fourmis Rouge"
+
+Scénario:
+
+
+
+1.L'utilisateur clique sur detruire carte
+2.cliquer sur la carte "Fourmis Rouge"
+3.Valider la destruction de la carte
+  
+Résultat attendu: 
+Le système affiche "Impossible de supprimer une carte appartenant à un deck"
+La carte n'est pas détruite et aucun joyaux n'est crédité.
+
+Moyens verification:
+
+Visuel, consulter la collection de "BobDu77" la carte "Fourmis Rouge" est toujours présente
+Visuel, consulter le nombre de joyaux de "BobDu77" avec la fonctionnalité gérer compte
+
+
+================================================
