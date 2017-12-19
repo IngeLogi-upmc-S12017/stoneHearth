@@ -3114,7 +3114,7 @@
             <children xmi:type="notation:DecorationNode" xmi:id="_d3eMsth7EeexEdRHRimFeQ" type="MessageNameLabel">
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_d3eMtNh7EeexEdRHRimFeQ" type="Stereotype"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_d3eMtdh7EeexEdRHRimFeQ" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d3eMs9h7EeexEdRHRimFeQ" y="-317"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d3eMs9h7EeexEdRHRimFeQ" x="343" y="-317" width="3227" height="343"/>
             </children>
             <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_d3eMsdh7EeexEdRHRimFeQ" points="[0, 0, -343, 0]$[343, 0, 0, 0]"/>
             <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_d3n9sNh7EeexEdRHRimFeQ" id="1305:1536"/>
@@ -6980,7 +6980,17 @@
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
       </ownedOperation>
-      <ownedOperation xmi:id="_fKmBcNh7EeexEdRHRimFeQ" name="detruireCarte"/>
+      <ownedOperation xmi:id="_fKmBcNh7EeexEdRHRimFeQ" name="detruireCarte">
+        <ownedParameter xmi:id="_3-gpYOTkEeeIPpkEs3p9ow" name="user_id">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_6MzF4OTkEeeIPpkEs3p9ow" name="nom_carte">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_9RLc4OTkEeeIPpkEs3p9ow" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
+      </ownedOperation>
       <ownedOperation xmi:id="_0C1HENjoEeed5d4Uja9Axw" name="achatCarte"/>
       <ownedOperation xmi:id="_3HUy0NjoEeed5d4Uja9Axw" name="afficheCarteToBuy"/>
       <ownedOperation xmi:id="_4iRG0NjoEeed5d4Uja9Axw" name="choixCarte">
@@ -7006,6 +7016,9 @@
         <ownedParameter xmi:id="_KqK08OPtEeepZbecG98yHg" name="user_id">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
+        <ownedParameter xmi:id="_vKb2kOTiEeeIPpkEs3p9ow" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedParameter>
       </ownedOperation>
       <ownedOperation xmi:id="_VqXo8NjqEeed5d4Uja9Axw" name="ajoutDeck">
         <ownedParameter xmi:id="_RhOMUOPtEeepZbecG98yHg" name="user_id">
@@ -7015,6 +7028,9 @@
       <ownedOperation xmi:id="_WUpQ0NjxEeecLPgs7WdR1g" name="achatPack">
         <ownedParameter xmi:id="_53apcOPsEeepZbecG98yHg" name="user_id">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_4-pioOTiEeeIPpkEs3p9ow" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
         </ownedParameter>
       </ownedOperation>
       <ownedOperation xmi:id="_fmoZkNjxEeecLPgs7WdR1g" name="addPack"/>
@@ -7064,6 +7080,9 @@
         </ownedParameter>
         <ownedParameter xmi:id="_OdoaYOM7EeeJeYhBSnucdA" name="numDeck">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedParameter>
+        <ownedParameter xmi:id="_YABI8OTjEeeIPpkEs3p9ow" name="Parameter1" direction="return">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
         </ownedParameter>
       </ownedOperation>
       <ownedOperation xmi:id="_xjbU4OM6EeeJeYhBSnucdA" name="getNbEmplacementDeckOccupe" visibility="private">
@@ -7150,9 +7169,10 @@
         </ownedParameter>
       </ownedOperation>
       <ownedOperation xmi:id="_crCq4N-DEeeJGpgMEd8mng" name="changerMotDePasse">
-        <ownedParameter xmi:id="_IpF-8OP2Eee4D_wNWNkUfg" name="oldmdp">
+        <ownedParameter xmi:id="_IpF-8OP2Eee4D_wNWNkUfg" name="user_id">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
+        <ownedParameter xmi:id="_VVAewOTkEeeIPpkEs3p9ow" name="oldmdp"/>
         <ownedParameter xmi:id="_KlNtYOP2Eee4D_wNWNkUfg" name="newmdp">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedParameter>
