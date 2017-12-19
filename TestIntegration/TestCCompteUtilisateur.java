@@ -23,21 +23,45 @@ public class TestCCompteUtilisateur{
     //Connexion
     @Test
     public void test3(){
-	Boolean res = gp.seConnecter("jo","j1o2j3o4");
+	boolean res = gp.seConnecter("jo","j1o2j3o4");
 	assertTrue(res);
     }
 
     //Connexion avec login faux
     @Test
     public void test4(){
-	Boolean res = gp.seConnecter("babarLelephant","savane");
+	boolean res = gp.seConnecter("babarLelephant","savane");
 	assertFalse(res);
     }
 
+    
+    /*Set Coord nominal*/	
     @Test
     public void test5(){
-	Boolean res = gp.setCoordon;
+	boolean  res = gp.setCoordBancaires("jo", 45769, "000ABC", 45, "LALA");
+	assertTrue(res);
+    }
+    
+    /*Set Coord : champs vide */
+    @Test
+    public void test6(){
+	boolean  res = gp.setCoordBancaires("jo", 45769, "", 45, "LALA");
 	assertFalse(res);
     }
+
+    /*Changer mot de passe nominal*/
+    @Test
+    public void test7(){
+	boolean res = gp.changerMotDePasse("jo" , "j1o2j3o4" , "patate", "patate");
+	assertTrue(res);
+    }
+    
+    /*Mauvais old password*/
+    @Test
+    public void test8(){
+	boolean res = gp.changerMotDePasse("jo" , "KK" , "false", "false");
+	assertTrue(res);
+    }
+    
     
 }
