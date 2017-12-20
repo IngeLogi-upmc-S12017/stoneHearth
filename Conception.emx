@@ -9671,16 +9671,30 @@
     <eAnnotations xmi:id="_zZhiAN3jEee_UeSODwJLoQ" source="uml2.diagrams"/>
     <ownedOperation xmi:id="_L2dK8N3kEee_UeSODwJLoQ" name="createGUtilisateurs">
       <ownedParameter xmi:id="_5ijgUN3kEee_UeSODwJLoQ" name="Parameter1" type="_HazT0M-SEeeacZFBqU1vXA" direction="return"/>
+      <ownedParameter xmi:id="_JaNRgOVkEeeT27Qy-gRrSA" name="partie" type="_80RYgN-AEeeJGpgMEd8mng"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_e1RPcOVlEeeT27Qy-gRrSA" name="createGMoteurJeuMock">
+      <ownedParameter xmi:id="_knY_EOVlEeeT27Qy-gRrSA" name="Parameter1" type="_80RYgN-AEeeJGpgMEd8mng" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_hF080OVlEeeT27Qy-gRrSA" name="createGCartesMock">
+      <ownedParameter xmi:id="_mOb1YOVlEeeT27Qy-gRrSA" name="Parameter1" type="_tTGdEM-PEeeacZFBqU1vXA" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_cZ2V4OVlEeeT27Qy-gRrSA" name="createGBankMock">
+      <ownedParameter xmi:id="_nh_vAOVlEeeT27Qy-gRrSA" name="Parameter1" type="_fQRJkM-REeeacZFBqU1vXA" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_Yrz94OVlEeeT27Qy-gRrSA" name="createGUtilisateursMock">
+      <ownedParameter xmi:id="_o4H0cOVlEeeT27Qy-gRrSA" name="Parameter1" type="_HazT0M-SEeeacZFBqU1vXA" direction="return"/>
+    </ownedOperation>
+    <ownedOperation xmi:id="_1gFP8OVkEeeT27Qy-gRrSA" name="createGMoteurJeu">
+      <ownedParameter xmi:id="_4TJ0gOVkEeeT27Qy-gRrSA" name="Parameter1" type="_80RYgN-AEeeJGpgMEd8mng" direction="return"/>
     </ownedOperation>
     <ownedOperation xmi:id="_VvV7oN3kEee_UeSODwJLoQ" name="createGCartes">
       <ownedParameter xmi:id="_oIrqcN3kEee_UeSODwJLoQ" name="gcu" type="_HazT0M-SEeeacZFBqU1vXA"/>
+      <ownedParameter xmi:id="_-cXD4OVjEeeT27Qy-gRrSA" name="bank" type="_fQRJkM-REeeacZFBqU1vXA"/>
       <ownedParameter xmi:id="_z6Y98N3kEee_UeSODwJLoQ" name="Parameter1" type="_tTGdEM-PEeeacZFBqU1vXA" direction="return"/>
     </ownedOperation>
     <ownedOperation xmi:id="_cY3NUN3kEee_UeSODwJLoQ" name="createGBank">
       <ownedParameter xmi:id="_18L2kN3kEee_UeSODwJLoQ" name="Parameter1" type="_fQRJkM-REeeacZFBqU1vXA" direction="return"/>
-    </ownedOperation>
-    <ownedOperation xmi:id="_edpIgN3kEee_UeSODwJLoQ" name="createGMatch">
-      <ownedParameter xmi:id="_4CliYN3kEee_UeSODwJLoQ" name="Parameter1" type="_akZa4M-SEeeacZFBqU1vXA" direction="return"/>
     </ownedOperation>
   </packagedElement>
   <packagedElement xmi:type="uml:Collaboration" xmi:id="_WEiDMN9-EeeJGpgMEd8mng" name="JouerPartie">
