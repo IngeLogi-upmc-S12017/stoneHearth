@@ -60,7 +60,25 @@ public class TestCCompteUtilisateur{
     @Test
     public void test8(){
 	boolean res = gp.changerMotDePasse("jo" , "KK" , "false", "false");
-	assertTrue(res);
+	assertFalse(res);
+    }
+    
+    /*test jouer partie*/
+    @Test
+    public void test9(){
+    	int test_1 = gp.getUtilisateur("j1").getCompteMatchs();
+    	gp.jouerPartie("j1",1);
+    	int test_2 = gp.getUtilisateur("j1").getCompteMatchs();
+    	assertTrue(test_2>test_1);
+    }
+    
+    /*test jouer partie où le joueur quitte pendant la recherche*/
+    @Test
+    public void test10(){
+    	int test_1 = gp.getUtilisateur("j3").getCompteMatchs();
+    	gp.jouerPartie("j3",2);
+    	int test_2 = gp.getUtilisateur("j3").getCompteMatchs();
+    	assertTrue(test_2==test_1);
     }
     
     
